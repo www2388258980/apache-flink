@@ -70,7 +70,7 @@ import static org.apache.flink.connector.jdbc.table.JdbcConnectorOptions.SINK_PA
 import static org.apache.flink.connector.jdbc.table.JdbcConnectorOptions.TABLE_NAME;
 import static org.apache.flink.connector.jdbc.table.JdbcConnectorOptions.URL;
 import static org.apache.flink.connector.jdbc.table.JdbcConnectorOptions.USERNAME;
-
+//
 /**
  * Factory for creating configured instances of {@link JdbcDynamicTableSource} and {@link
  * JdbcDynamicTableSink}.
